@@ -39,7 +39,7 @@ _"인과추론 이론에서 CausalML 코드까지 !! "_
 
 ## 진행 방향
 - 매주 일요일 저녁 8시 [실무로 통하는 인과추론](https://product.kyobobook.co.kr/detail/S000212577153) 책을 통해 이론을 공부합니다.
-- 1주가 지나면, 지난주차 이론을 [caysalML](https://github.com/uber/causalml) 코드로 다시 한번 복습합니다.
+- 1주가 지나면, 지난주차 이론을 [causalML](https://github.com/uber/causalml) 코드로 다시 한번 복습합니다.
   
 
 
