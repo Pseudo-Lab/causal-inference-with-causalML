@@ -1,6 +1,6 @@
-# 10th-template
+# 실무로 통하는 인과추론 with 파이썬 + CausalML 곁들인
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> causal-inference-with-causalML </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -17,86 +17,58 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> 안녕하세요. 인과추론에 관심이 있으신 여러분!! 환영합니다.
+>
+> 인과추론을 곁들인 분석을 통해 유의미한 결과를 함께 고민하고 만들어봐요
+
+<figure class="half">  
+    <a href="https://product.kyobobook.co.kr/detail/S000212577153"><img src = "/src/book_img.jpg" width="300" height="300" ></a> 
+    <a href="https://github.com/uber/causalml"><img src = "/src/causalml_logo.png" width="600" height="200"></a>
+</figure>
+
+
+
+
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
+_"인과추론 이론에서 CausalML 코드까지 !! "_  
+- 현직자들과 다양한 고민 나누기
+- 인과추론에 대한 이론 공부
+- 이론에서 그치지 않고 코드작성으로 살아있는 지식 만들기
+- "인과추론 그거 해봤어? 난 해봤어!" 라고 당당하게 말하기
+
+## 진행 방향
+- 매주 일요일 저녁 8시 [실무로 통하는 인과추론](https://product.kyobobook.co.kr/detail/S000212577153) 책을 통해 이론을 공부합니다.
+- 1주가 지나면, 지난주차 이론을 [caysalML](https://github.com/uber/causalml) 코드로 다시 한번 복습합니다.
+  
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+| **Project Manager** | 박이삭 | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB) ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) | 인과추론              |
+| **Member** | 신진수 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) | 인과추론                  |
+| **Member** | who's next? |             |                   |
 
 
-## 🚀 프로젝트 로드맵 (Project Roadmap)
-```mermaid
-gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
-```
-
-
-## 🛠️ 우리의 개발 문화 (Our Development Culture)
-**우리의 개발 문화**  
-```python
-class CollaborationFramework:
-    def __init__(self):
-        self.tools = {
-            'communication': 'Discord',
-            'version_control': 'GitHub Projects',
-            'ci/cd': 'GitHub Actions',
-            'docs': 'Github Wiki'
-        }
-    
-    def workflow(self):
-        return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
-```
-
-
-## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
-| 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
 
 
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
+| 2025/03/03 | OT       | 신진수     |
+| 2025/03/09 |  Part 1.인과추론의 기초 | 박이삭 | 
+| 2025/03/16 |  Part 2.선형회귀 | 미정 | 
+| 2025/03/23 |  Part 3.성향점수 | 미정 | 
+| 2025/03/30 |  Part 4.이질적 처치효과 | 미정 | 
+| 2025/04/06 |  Part 5.메타러너 | 미정 | 
+| 2025/04/13 |  Part 5.이중차분법 | 미정 | 
+| 2025/04/20 |  Part 5.통제집단 합성법 | 미정 | 
+| 2025/04/27 |  Part 5.대안적 실험설계 | 미정 | 
+| 2025/05/06 |  Part 5.메타러너 | 미정 | 
 
-
-
-## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
 
 
 ## 🌱 참여 안내 (How to Engage)
@@ -110,7 +82,7 @@ class CollaborationFramework:
 
 ## Acknowledgement 🙏
 
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+causal-inference-with-causalML is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
