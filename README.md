@@ -22,8 +22,8 @@
 > 인과추론을 곁들인 분석을 통해 유의미한 결과를 함께 고민하고 만들어봐요
 
 <figure class="half">  
-    <a href="https://product.kyobobook.co.kr/detail/S000212577153"><img src = "/src/book_img.jpg" width="300" height="300" ></a> 
-    <a href="https://github.com/uber/causalml"><img src = "/src/causalml_logo.png" width="600" height="200"></a>
+    <a href="https://product.kyobobook.co.kr/detail/S000212577153"><img src = "/src/book_img.jpg" width="150" height="150" ></a> 
+    <a href="https://github.com/uber/causalml"><img src = "/src/causalml_logo.png" width="300" height="100"></a>
 </figure>
 
 
